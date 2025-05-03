@@ -71,8 +71,6 @@ Installation
 Place this folder inside resources/, for example:
 resources/[local]/gb-weedrolling
 
-Add to your server.cfg:
-ensure qb-coreensure gb-weedrolling
 
 That’s it. The script handles its own config and items.
 
